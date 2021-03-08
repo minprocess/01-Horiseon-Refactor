@@ -50,15 +50,11 @@ p {
     font-size: 16px;
 }
 
+/* Format for the large photo between header and the services section */
 .hero {
     height: 100%;
     width: 100%;
     margin-bottom: 25px;
-    /*
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-    */
 }
 
 .float-left {
@@ -71,12 +67,14 @@ p {
     margin-left: 25px;
 }
 
+/* Format for the 3 sections describing services */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Format for service section titles */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -95,6 +93,7 @@ p {
     font-size: 36px;
 }
 
+/* Format for a panel on the right size of the page listing benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
