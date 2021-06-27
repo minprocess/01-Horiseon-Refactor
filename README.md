@@ -25,4 +25,4 @@ The original code is not my own and should not be used without the permission of
 [GitHub web page for Horiseon-Refactor](https://minprocess.github.io/Horiseon-Refactor/)
 
 ## Screenshot of the refactored web page
-![image](https://github.com/minprocess/Horiseon-Refactor/blob/main/assets/images/screencapture-minprocess-github-io-Horiseon-Refactor.png?raw=true)
+![image](./assets/images/screencapture-minprocess-github-io-Horiseon-Refactor.png?raw=true)
