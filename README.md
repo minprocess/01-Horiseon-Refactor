@@ -6,6 +6,16 @@ This project was a refactor of an existing web page for the ficticious company, 
 
 The web page before refactoring had the problems listed below in the changes and fixed section below.
 
+## Installation
+
+This app uses only HTML and CSS
+<br>
+Source on GitHub: https://github.com/minprocess/01-Horiseon-Refactor
+
+## Usage
+
+Web  page on GitHub Pages: https://minprocess.github.io/01-Horiseon-Refactor/
+
 ## Changes and fixes
 1. Added alt text to the images to improve the accesability of this web page.
 2. Replaced a lot of div elements with section and aside elements. Not all divs needed to be replaced.
@@ -18,11 +28,6 @@ The web page before refactoring had the problems listed below in the changes and
 
 ## Copyright
 The original code is not my own and should not be used without the permission of Trilogy Education. 
-
-## Links
-[GitHub repository for Horiseon-Refactor](https://github.com/minprocess/Horiseon-Refactor)
-
-[GitHub web page for Horiseon-Refactor](https://minprocess.github.io/Horiseon-Refactor/)
 
 ## Screenshot of the refactored web page
 ![image](./assets/images/screencapture-minprocess-github-io-Horiseon-Refactor.png?raw=true)
